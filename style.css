@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to bottom right, red, yellow);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url("digital-7.ttf");
+}
+.timer p {
+    font-family: myFirstFont;
+    font-size: 250px;
+    color: white;
+}
+
+optgroup { 
+    font-size:40px;
+ }
